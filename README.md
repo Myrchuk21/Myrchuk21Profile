@@ -18,4 +18,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/myrchuk21)
 
 <h1 align=center><b>Stats</b></h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Myrchuk21=catcha8&theme=blue-green"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrchuk21&theme=blue-green"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Myrchuk21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br>
