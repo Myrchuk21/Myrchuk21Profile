@@ -16,4 +16,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/myr_kuch21)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/myrchuk21)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Myrchuk21=anuraghazra&theme=synthwave&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myrchuk21)](https://github.com/anuraghazra/github-readme-stats)
