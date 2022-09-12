@@ -1,6 +1,8 @@
 ### Header
-<img src="https://github.com//Myrchuk21Profile/assets/sneg.png" alt="sneg" width="180"/>
-
+<div align=center>
+<a href="https://discord.gg/catcha"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+</div>
+  
 ### Languages and Tools:
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
