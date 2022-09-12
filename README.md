@@ -1,5 +1,5 @@
 ### Header
-<img src="https://github.com//Myrchuk21Profile/assets/sneg.png" alt="The Unlimited" width="180"/>
+<img src="https://github.com//Myrchuk21Profile/assets/sneg.png" alt="sneg" width="180"/>
 
 ### Languages and Tools:
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
