@@ -3,6 +3,8 @@
 <a href="https://discord.gg/jZZWHKDHam"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 </div>
   
+  <h1 align=center><b>Community</b></h1>
+  
 ### Languages and Tools:
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
