@@ -1,7 +1,7 @@
 ### Header
 
 <a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/Myrchuk21/assets/sneg.png" alt="x21" width="180"/>
+  <img src="https://github.com/Myrchuk21Profile/assets/sneg.png" alt="x21" width="180"/> 
 </a>
 
 ### Languages and Tools:
