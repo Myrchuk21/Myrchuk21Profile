@@ -1,6 +1,6 @@
 ### Header
 <div align=center>
-<a href="[https://discord.gg/x21](https://discord.gg/jZZWHKDHam)"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+<a href="https://discord.gg/jZZWHKDHam"><img src="https://img.shields.io/badge/discord-blue.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 </div>
   
 ### Languages and Tools:
