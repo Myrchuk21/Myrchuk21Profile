@@ -1,8 +1,5 @@
 ### Header
-
-<a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/Myrchuk21Profile/assets/sneg.png" alt="x21" width="180"/> 
-</a>
+<img src="https://github.com//Myrchuk21Profile/assets/sneg.png" alt="The Unlimited" width="180"/>
 
 ### Languages and Tools:
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
